@@ -13,7 +13,7 @@ If you are interested in the topics I've talked about, you are free to text me v
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: My voice can be like a robot, so don't get too shocked about it.
 Skill:
-Project Management|Coding|Web Design|Software Installation|Excel
+Project Management|Coding|Software Installation|Excel
 <!--
 **Alvaro454/Alvaro454** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
